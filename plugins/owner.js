@@ -1,4 +1,3 @@
-*/
 
 const { cmd } = require('../command');
 
